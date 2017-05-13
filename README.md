@@ -1,2 +1,3 @@
 # helloworld
-creating my own helloworld repository and learning basic github features
+creating my own helloworld repository and learning basic github features 
+git clone 
